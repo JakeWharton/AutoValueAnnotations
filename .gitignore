@@ -15,6 +15,7 @@ lib
 target
 pom.xml.*
 release.properties
+dependency-reduced-pom.xml
 
 # IntelliJ
 .idea
