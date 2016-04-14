@@ -100,8 +100,8 @@
               <goal>jar</goal>
             </goals>
             <configuration>
-              <classifier>source</classifier>
-              <classesDirectory>${basedir}/source</classesDirectory>
+              <classifier>sources</classifier>
+              <classesDirectory>${basedir}/sources</classesDirectory>
             </configuration>
           </execution>
         </executions>
