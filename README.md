@@ -17,7 +17,7 @@ Download
 
 ```groovy
 apt 'com.google.auto.value:auto-value:1.2'
-provided 'com.jakewharton.auto.value:auto-value-annotations:1.2'
+provided 'com.jakewharton.auto.value:auto-value-annotations:1.2-update1'
 ```
 
 
