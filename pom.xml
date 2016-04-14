@@ -63,8 +63,7 @@
             <filter>
               <artifact>com.google.auto.value:auto-value</artifact>
               <includes>
-                <include>com/google/auto/value/AutoValue.class</include>
-                <include>com/google/auto/value/AutoAnnotation.class</include>
+                <include>com/google/auto/value/Auto*.class</include>
               </includes>
             </filter>
           </filters>
