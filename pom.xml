@@ -11,7 +11,7 @@
 
   <groupId>com.jakewharton.auto.value</groupId>
   <artifactId>auto-value-annotations</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3</version>
 
   <name>AutoValue Annotations</name>
   <description>A standalone packaging of the annotations from Google's AutoValue library.</description>
