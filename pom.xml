@@ -64,6 +64,7 @@
               <artifact>com.google.auto.value:auto-value</artifact>
               <includes>
                 <include>com/google/auto/value/Auto*.class</include>
+                <include>com/google/auto/value/extension/memoized/Memoized.class</include>
               </includes>
             </filter>
           </filters>
