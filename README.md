@@ -16,8 +16,8 @@ Download
 --------
 
 ```groovy
-annotationProcessor 'com.google.auto.value:auto-value:1.4'
-provided 'com.jakewharton.auto.value:auto-value-annotations:1.4'
+annotationProcessor 'com.google.auto.value:auto-value:1.5'
+provided 'com.jakewharton.auto.value:auto-value-annotations:1.5'
 ```
 
 
