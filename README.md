@@ -1,6 +1,12 @@
 AutoValue Annotations
 =====================
 
+**Deprecated!**
+
+As of AutoValue 1.6 a separate auto-value-annotations artifact is available.
+
+----
+
 A standalone packaging of the annotations from [Google's AutoValue library][1].
 
 When using AutoValue with Gradle it is _highly_ inconvenient to specify the dependency both as
